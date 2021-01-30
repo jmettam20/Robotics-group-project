@@ -1,0 +1,52 @@
+(* Content-type: application/vnd.wolfram.mathematica *)
+
+(*** Wolfram Notebook File ***)
+(* http://www.wolfram.com/nb *)
+
+(* CreatedBy='Mathematica 12.1' *)
+
+(*CacheID: 234*)
+(* Internal cache information:
+NotebookFileLineBreakTest
+NotebookFileLineBreakTest
+NotebookDataPosition[       158,          7]
+NotebookDataLength[      1410,         44]
+NotebookOptionsPosition[      1068,         30]
+NotebookOutlinePosition[      1460,         46]
+CellTagsIndexPosition[      1417,         43]
+WindowFrame->Normal*)
+
+(* Beginning of Notebook Content *)
+Notebook[{
+Cell[BoxData[{
+ RowBox[{"Import", "[", "\"\</home/pi/Documents/userImage.txt\>\"", 
+  "]"}], "\[IndentingNewLine]", 
+ RowBox[{"FilePrint", "[", "\"\</home/pi/Documents/userImage.txt\>\"", 
+  "]"}]}], "Input",
+ CellChangeTimes->{{3.8115871561892853`*^9, 3.8115871596025543`*^9}, {
+  3.811587242826248*^9, 3.811587247915182*^9}, {3.8115872972341213`*^9, 
+  3.81158732265903*^9}, {3.8115873984037867`*^9, 3.8115874619110737`*^9}},
+ CellLabel->"In[14]:=",ExpressionUUID->"c92019d2-f183-4b24-850c-d4a135c43965"]
+},
+WindowSize->{808, 565},
+WindowMargins->{{Automatic, 26}, {38, Automatic}},
+FrontEndVersion->"12.1 for Linux ARM (32-bit) (August 18, 2020)",
+StyleDefinitions->"Default.nb",
+ExpressionUUID->"72eb96af-dbd4-4452-87aa-3b7534bc7f6a"
+]
+(* End of Notebook Content *)
+
+(* Internal cache information *)
+(*CellTagsOutline
+CellTagsIndex->{}
+*)
+(*CellTagsIndex
+CellTagsIndex->{}
+*)
+(*NotebookFileOutline
+Notebook[{
+Cell[558, 20, 506, 8, 53, "Input",ExpressionUUID->"c92019d2-f183-4b24-850c-d4a135c43965"]
+}
+]
+*)
+
